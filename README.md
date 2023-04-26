@@ -1,11 +1,7 @@
-## My Project
+## Winging It S1E1
 
-TODO: Fill this README out!
+Building a document sorting solution using serverless technologies.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
